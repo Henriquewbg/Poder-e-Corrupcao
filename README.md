@@ -9,3 +9,4 @@
 Durante o jogo, o jogador precisa equilibrar a lealdade de seu exército, a opinião do povo e os recursos do reino, enquanto decide como lidar com crises, invasões e conspirações dentro do castelo.
 
 Suas ações influenciam diretamente o futuro do trono: um governante justo pode trazer prosperidade e paz, enquanto um rei autoritário pode mergulhar o reino na corrupção e no medo.</p>
+ 
